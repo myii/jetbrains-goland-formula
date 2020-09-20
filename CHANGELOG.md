@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.2.0](https://github.com/saltstack-formulas/jetbrains-goland-formula/compare/v1.1.0...v1.2.0) (2020-09-20)
+
+
+### Bug Fixes
+
+* **shortcut:** windows ([2dad1f7](https://github.com/saltstack-formulas/jetbrains-goland-formula/commit/2dad1f73bbb83686bb2289ea5bf1b5313856a357))
+
+
+### Features
+
+* **clean:** add windows support ([0064674](https://github.com/saltstack-formulas/jetbrains-goland-formula/commit/0064674131519557be1863793167f0a518ce6710))
+
 # [1.1.0](https://github.com/saltstack-formulas/jetbrains-goland-formula/compare/v1.0.2...v1.1.0) (2020-09-20)
 
 
