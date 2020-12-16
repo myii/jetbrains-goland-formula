@@ -2,6 +2,24 @@
 Changelog
 =========
 
+`1.2.1 <https://github.com/saltstack-formulas/jetbrains-goland-formula/compare/v1.2.0...v1.2.1>`_ (2020-12-16)
+------------------------------------------------------------------------------------------------------------------
+
+Continuous Integration
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+* **gitlab-ci:** use GitLab CI as Travis CI replacement (\ `117f536 <https://github.com/saltstack-formulas/jetbrains-goland-formula/commit/117f5366075978e85c186760b9ac0a8a9d55b11b>`_\ )
+* **pre-commit:** add to formula [skip ci] (\ `8f45b48 <https://github.com/saltstack-formulas/jetbrains-goland-formula/commit/8f45b4893ff1f9d3061c6c8800cbe3670e1f0ee6>`_\ )
+* **pre-commit:** enable/disable ``rstcheck`` as relevant [skip ci] (\ `60c37d4 <https://github.com/saltstack-formulas/jetbrains-goland-formula/commit/60c37d4a4313d46e5c899ebb15ddd6c4c97a4ab0>`_\ )
+* **pre-commit:** finalise ``rstcheck`` configuration [skip ci] (\ `6db8144 <https://github.com/saltstack-formulas/jetbrains-goland-formula/commit/6db814479e39a9cc31efc74329ce0dff7b1a4576>`_\ )
+
+Documentation
+^^^^^^^^^^^^^
+
+
+* **readme:** fix ``rstcheck`` violation [skip ci] (\ `f9eb941 <https://github.com/saltstack-formulas/jetbrains-goland-formula/commit/f9eb941c401291866f1b41bb9182957a4799663c>`_\ ), closes `/travis-ci.org/github/myii/jetbrains-goland-formula/builds/731607034#L259 <https://github.com//travis-ci.org/github/myii/jetbrains-goland-formula/builds/731607034/issues/L259>`_
+
 `1.2.0 <https://github.com/saltstack-formulas/jetbrains-goland-formula/compare/v1.1.0...v1.2.0>`_ (2020-09-20)
 ------------------------------------------------------------------------------------------------------------------
 
